@@ -20,7 +20,7 @@ Live demo and Screen shots :
 
 Live demo :
 
-https://akankshap-currency-converter.netlify.app/
+https://akankshap-currency-converter.netlify.app
 
 Screen Shot:
 ![alt text](<demo.png>)
