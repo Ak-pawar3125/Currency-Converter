@@ -91,6 +91,9 @@ body {
 /* --------------Media queris for mobile-------------- */
 
 @media screen and (min-width: 320px) and (max-width: 425px) {
+    .container h1{
+        font-size: 1.5rem;
+    }
     body{
         min-height: 0;
     }
