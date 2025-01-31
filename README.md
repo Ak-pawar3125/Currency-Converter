@@ -2,21 +2,21 @@
 
 A simple web application that allows users to convert currencies in real-time using an exchange rate API.
 
-Features
+# Features
 
--Convert between different currencies.
--Fetches real-time exchange rates using an API.
--Displays currency flags dynamically.
--Responsive design for seamless user experience.
+-Convert between different currencies.<br>
+-Fetches real-time exchange rates using an API.<br>
+-Displays currency flags dynamically.<br>
+-Responsive design for seamless user experience.<br>
 
-Technologies Used
+# Technologies Used
 
--HTML - Structure of the web page.
--CSS - Styling and layout.
--JavaScript - Fetching exchange rates and handling user interactions.
--Exchange Rate API - Retrieves live currency exchange rates.
+-HTML - Structure of the web page.<br>
+-CSS - Styling and layout.<br>
+-JavaScript - Fetching exchange rates and handling user interactions.<br>
+-Exchange Rate API - Retrieves live currency exchange rates.<br>
 
-Live demo and Screen shots :
+# Live demo and Screen shots :
 
 Live demo :
 
